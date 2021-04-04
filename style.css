@@ -271,7 +271,7 @@ h1{
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url("https://assets.codepen.io/4651766/IMG_4972.JPG");
+  background-image: url("https://assets.codepen.io/4651766/IMG_5533.JPG");
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -328,7 +328,7 @@ h1{
 }
 .el:nth-child(4) .el__bg:before {
   transition-delay: 0.3s;
-  background-image: url("https://assets.codepen.io/4651766/IMG_5533.JPG");
+  background-image: url("https://assets.codepen.io/4651766/IMG_4972.JPG");
 }
 .el:nth-child(5) {
   transform: translate3d(420.8333333333%, 0, 0);
