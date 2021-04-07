@@ -381,3 +381,7 @@ h1{
   left: auto;
   right: 5px;
 }
+.about_blurb{
+  color:white;
+  background:grey;
+}
